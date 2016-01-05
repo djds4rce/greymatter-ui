@@ -1,0 +1,91 @@
+/* ==== HEADER */
+.header {
+	background: #fff;
+	border-bottom: 1px solid #000;
+}
+
+.title {
+	padding-left: 1em;
+}
+.about {
+	margin-top: 1em;
+	padding-right: 1em;
+	text-align: right;
+}
+/* ==== END HEADER */
+
+
+/* ==== META INFORMATION */
+.meta {
+	margin: 0em 0;
+	text-align: right;
+}
+
+	.meta .tags button {
+		margin-right: 0.5em;
+	}
+
+	.source > label {
+		color: #d3d3d3;
+		font-weight: bold;
+		display: inline-block;
+		margin-right: 10px;
+	}
+		.source > span {
+			color: #d3d3d3;
+		}
+/* ==== END META INFORMATION */
+
+
+/* ==== CONTENT */
+
+.content >	 div {
+	margin-top: 5%;
+}
+
+.next-question,
+.prev-question {
+	padding-top: 16em;
+}
+
+
+.show-answer {
+	margin-top: 50px;
+	text-align: center;
+}
+
+.rotate180 {
+	-ms-transform: rotate(180deg); /* IE 9 */
+	-webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+	transform: rotate(180deg);
+}
+
+
+
+/** ============================================================================ BLOG LAYOUT **/
+.post {
+	margin-top: 2em;
+	/*border-bottom: 1px solid #eee;*/
+}
+img.spinner {
+	 display: block;
+   margin-left: auto;
+   margin-right: auto
+}
+
+.arrow {
+	width: 15% !important;
+}
+
+.arrowleft {
+	width:50%;
+	text-align:left;
+}
+.arrowright {
+	width:50%;
+	text-align:right;
+}
+
+.controls {
+	margin-top: 15px;
+}

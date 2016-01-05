@@ -1,0 +1,22 @@
+- Admin Integration with rails backend
+- social sharing
+- question liking
+- UI tweaking
+- Make Intelligent
+- Code Beautify
+- Make offline
+- Make Isomorphic app
+- Add analytics
+- Add domain
+- Add cloud flare
+- Integrate with Rails Backend(Done)
+-Fix image missing bug. Why are images not present?(Done)
+-Fix Tags/Decide If tags are needed(Done.Not needed)
+- Add way to make it cron job(Done)
+- Find email for whether new questions are added.(Done)
+- Host data(Done)
+- Add Authentication(Done)
+- make random(done)
+- fix gulp build(Done)
+- Do admin(done)
+- Add images to parse(Done)
